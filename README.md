@@ -1,14 +1,20 @@
-## SimpleBible 📖
+# SimpleBible 📖
 ### Api simples que retorna trechos da Biblia em formatos diversos
+
 ---
-### Caracteristicas:
+### Objetivo 📋
+Desenvolver uma **ferramenta para consultas em banco de dados**, que permita acessar os resultados tanto via **API web** quanto pelo **terminal**.  
+A ferramenta retorna os resultados em texto no terminal ou, na versão web, em formatos como **JSON, TXT ou HTML**.
+
+---
+### Recursos 🛠️
 - ✅ Retorna trechos da biblia em Html, Json ou txt
 - ✅ Permite buscar trechos especificos
 - ✅ Dados salvos no db
 - ✅ Versões web e cli
 
 <span>
-  <h3> Tecnologias: </h3>
+  <h3> Tecnologias 🔋 </h3>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
