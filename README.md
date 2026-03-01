@@ -23,7 +23,7 @@ A ferramenta retorna os resultados em texto no terminal ou, na versão web, em f
 </span>
 
 ---
-### Como usar:
+### Uso 📋
 ```
 # Api
   - Executa a api flask para consultas pelo navegador
