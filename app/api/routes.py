@@ -1,14 +1,14 @@
 from flask import request, Response, Flask, render_template
-from app.api.db import find_in_bible
-from app.api.utils import format_query
+from api.db import find_in_bible
+from api.utils import format_query
 
 
 app = Flask(__name__)
 
 
-@app.route('/home')
+@app.route('/sobre')
 def home():
-    return render_template('home.html')
+    return render_template('index.html')
 
 @app.route('/')
 def get_html_bible():
